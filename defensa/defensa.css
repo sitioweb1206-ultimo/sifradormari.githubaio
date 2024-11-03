@@ -1,0 +1,38 @@
+body{
+
+    background-color: #20b2aa;
+
+}
+header{
+     background-color: #e9967a;
+    color: #880000;
+    padding-top: 30px;
+    min-height: 40px;
+    font-size: 20px;
+    margin: 15px;
+    text-align: center;
+    font-family: 'Algerian';
+
+}
+* {
+    padding: 0;
+    margin: 0;
+    font-family: century gothic;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+}
+.contenido {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.piedepagina {
+    background-color: #e9967a;
+    margin-top: 100px;
+}
+.piedepagina p {
+    padding: 50px;
+}
